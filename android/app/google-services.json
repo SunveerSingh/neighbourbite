@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "630120582179",
+    "project_id": "cloud-kitchen-8c22e",
+    "storage_bucket": "cloud-kitchen-8c22e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630120582179:android:9dddd904f3117987327596",
+        "android_client_info": {
+          "package_name": "com.example.cloudkitchen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwc_Q1gHzn2ROsdtc8NzdQ8wDWkHTPX1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
